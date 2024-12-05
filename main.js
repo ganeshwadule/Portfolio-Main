@@ -31,7 +31,7 @@ document.querySelector("#app").innerHTML = `
       <a href="#Contact"
         class="text-2xl p-3 font-sans align-middle font-bold leading-6  hover:white hover:bg-zinc-300  dark:hover:bg-zinc-800 rounded-md cursor-pointer text-gray-800 dark:text-gray-200">Contact</a>
       <a
-        class="text-2xl p-3 font-sans align-middle font-bold leading-6  hover:white hover:bg-zinc-300  dark:hover:bg-zinc-800 rounded-md cursor-pointer text-gray-800 dark:text-gray-200" href="https://drive.google.com/file/d/1HJXIdg1sbA43GI9Hj_YSp-X2Drm8Kg-B/view?usp=drive_link" target="_blank">Resume</a>
+        class="text-2xl p-3 font-sans align-middle font-bold leading-6  hover:white hover:bg-zinc-300  dark:hover:bg-zinc-800 rounded-md cursor-pointer text-gray-800 dark:text-gray-200" href="https://drive.google.com/file/d/1HJXIdg1sbA43GI9Hj_YSp-X2Drm8Kg-B/view?usp=sharing" target="_blank">Resume</a>
       
 
       </ul>
@@ -484,7 +484,7 @@ title="Python"
     <div class="flex items-center ml-4 my-4">
     </div>
     <button class="cursor-pointer group relative flex gap-1.5 px-8 py-4 bg-black bg-opacity-80 text-[#f1f1f1] rounded-lg hover:bg-opacity-70 transition font-semibold shadow-md">
-  <a href="https://drive.google.com/file/d/1HJXIdg1sbA43GI9Hj_YSp-X2Drm8Kg-B/view?usp=drive_link">
+  <a href="https://drive.google.com/file/d/1HJXIdg1sbA43GI9Hj_YSp-X2Drm8Kg-B/view?usp=sharing" class="flex items-center gap-1.5">
   <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" height="24px" width="24px">
       <g stroke-width="0" id="SVGRepo_bgCarrier"></g>
       <g stroke-linejoin="round" stroke-linecap="round" id="SVGRepo_tracerCarrier"></g>
