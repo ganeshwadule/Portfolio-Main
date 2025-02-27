@@ -56,7 +56,7 @@ document.querySelector("#app").innerHTML = `
       <div class=""><!-- commented text-center for having the text at left instead of center-->
         <h1 class="text-gray-950 dark:text-gray-100 text-3xl md:text-5xl font-bold mb-2 tracking-tight ">Ganesh Wadule</h1>
         <div id="typed-strings">
-          <p class="text-gray-600 dark:text-gray-400 text-1xl md:text-2xl max-w-screen-md mx-auto font-normal tracking-tight mb-4">Fullstack Engineer • Devops Enthusiast • AI Enthusiast • Student </p>
+          <p class="text-gray-600 dark:text-gray-400 text-1xl md:text-2xl max-w-screen-md mx-auto font-normal tracking-tight mb-4">Backend Engineer • Devops Enthusiast • AI Enthusiast • Student </p>
         </div>
         <span id="typed" class="dark:text-gray-400"></span>
         <div class="max-w-screen-md mt-2 "><!-- commented mx-auto for having the text at left instead of center-->
